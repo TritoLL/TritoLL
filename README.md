@@ -1,5 +1,13 @@
-### Hi there 👋
+## Try to Live Life...
+### TritoLL
 
+I'm a hobbyist game developer!
+- 🔭 I’m currently working on two games. The first is a small binary learning game and the second is a tower defense game.
+- 🌱 I’m currently learning all kinds of IT related things in college.
+
+You can find my Steam games here: https://store.steampowered.com/search/?developer=TritoLL
+
+You can find my Google Play apps here: https://play.google.com/store/apps/developer?id=TritoLL
 <!--
 **TritoLL/TritoLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
