@@ -1,4 +1,4 @@
-## Try to Live Life...
+## Try to Live Life
 ### TritoLL
 
 I'm a hobbyist game developer!
