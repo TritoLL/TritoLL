@@ -2,7 +2,7 @@
 ### TritoLL
 
 I'm a hobbyist game developer and full-time IT student!
-- 🔭 I’m currently working on two games. The first is a small binary learning game and the second is a tower defense game.
+- 🔭 I’m currently finishing up a small tower defense game.
 - ⚡ I use Unity as my game engine of choice, with C# as my language.
 - 🌱 I’m currently learning C#, SQL, HTML/CSS/JS and more in college.
 
