@@ -4,7 +4,8 @@
 I'm a hobbyist game developer and full-time IT student!
 - 🔭 I’m currently finishing up a small tower defense game.
 - ⚡ I use Unity as my game engine of choice, with C# as my language.
-- 🌱 I’m currently learning C#, SQL, HTML/CSS/JS and more in college.
+- 🌱 In college, I'm learning C#, SQL, HTML/CSS/JS and more.
+- 🤔 I've been dabbling in React during my spare time. Portfolio website coming soon?
 
 You can find my Steam games here: https://store.steampowered.com/search/?developer=TritoLL
 
