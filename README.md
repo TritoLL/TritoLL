@@ -2,10 +2,10 @@
 ### TritoLL
 
 I'm a hobbyist game developer and full-time IT student!
-- 🔭 I’m currently finishing up a small tower defense game.
+- 🔭 I’m currently working on my portfolio, built with React.
 - ⚡ I use Unity as my game engine of choice, with C# as my language.
 - 🌱 In college, I'm learning C#, SQL, HTML/CSS/JS and more.
-- 🤔 I've been dabbling in React during my spare time. Portfolio website coming soon?
+- 🤔 I have an old game development project that I hope to bring back to life soon.
 
 You can find my Steam games here: https://store.steampowered.com/search/?developer=TritoLL
 
